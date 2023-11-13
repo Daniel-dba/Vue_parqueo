@@ -1,0 +1,68 @@
+{
+  "empleado": [
+    {
+      "id": 1,
+      "nombre": "Alberto",
+      "area": "finanzas",
+      "movilidad": "auto",
+      "placa": "1234-ABC",
+      "color": "negro"
+    },
+    {
+      "id": 2,
+      "nombre": "Raul",
+      "area": "contabilidad",
+      "movilidad": "auto",
+      "placa": "5678-DEF",
+      "color": "plomo"
+    },
+    {
+      "id": 3,
+      "nombre": "Daniel",
+      "area": "procuccion",
+      "movilidad": "moto",
+      "placa": "9101-GHI",
+      "color": "cafe"
+    },
+    {
+      "id": 4,
+      "nombre": "Natalia",
+      "area": "finanzas",
+      "movilidad": "moto",
+      "placa": "1234-JKL",
+      "color": "blanco"
+    },
+    {
+      "nombre": "Zacarias",
+      "area": "contabilidad",
+      "movilidad": "auto",
+      "placa": "5678-OPQ",
+      "color": "azul",
+      "id": 5
+    },
+    {
+      "nombre": "Andrea",
+      "area": "produccion",
+      "movilidad": "moto",
+      "placa": "5566-XYZ",
+      "color": "amarillo",
+      "id": 6
+    },
+    {
+      "nombre": "Arturo",
+      "area": "contabilidad",
+      "movilidad": "auto",
+      "placa": "3158-EFR",
+      "color": "rojo",
+      "id": 7
+    },
+    {
+      "nombre": "Fernando",
+      "area": "finanzas",
+      "movilidad": "auto",
+      "placa": "6300-ZKL",
+      "color": "azul marino",
+      "id": 8
+    }
+  ]
+}
